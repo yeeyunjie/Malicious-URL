@@ -2,24 +2,17 @@ absl-py==0.12.0
 altair==4.1.0
 astor==0.8.1
 astunparse==1.6.3
-attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 base58==2.1.0
 beautifulsoup4==4.10.0
-bleach @ file:///tmp/build/80754af9/bleach_1612211392645/work
 blinker==1.4
 bs4==0.0.1
 cachetools==4.2.1
 catboost==0.26.1
 certifi==2020.12.5
-cffi @ file:///C:/ci/cffi_1613247431367/work
 chardet==3.0.4
 click==7.1.2
-colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 cycler==0.10.0
 Cython==0.29.17
-decorator @ file:///home/ktietz/src/ci/decorator_1611930055503/work
-defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 entrypoints==0.3
 et-xmlfile==1.0.1
 flatbuffers==1.12
