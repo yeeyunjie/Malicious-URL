@@ -1,6 +1,5 @@
 absl-py==0.12.0
 altair==4.1.0
-argon2-cffi @ file:///C:/ci/argon2-cffi_1613037869401/work
 astor==0.8.1
 astunparse==1.6.3
 async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
