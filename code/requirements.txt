@@ -64,7 +64,6 @@ pyasn1-modules==0.2.8
 pycountry==20.7.3
 pydeck==0.7.0
 pytz==2021.1
-pywin32==300
 PyYAML==5.4.1
 pyzmq==22.0.3
 QtPy==1.9.0
