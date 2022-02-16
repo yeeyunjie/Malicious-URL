@@ -6,6 +6,7 @@ Identifying Unsafe Websites
 In an attempt to steal data from users, bad actors would use 'lookalikes'/phishing sites to bait users. 
 Thus, I aim to build model that warns users on the likelihood of a harmful website before clicking on them. 
 Catboost would be my algorithm of choice given its comparatively shorter runtime and lower tendency to overfit.
+Do check out my model + quick data visualization here!  - https://share.streamlit.io/yeeyunjie/malicious-url/code/malware-urls-app.py
 
 
 ### Problem Statement
